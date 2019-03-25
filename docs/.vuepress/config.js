@@ -68,6 +68,15 @@ module.exports = {
         link: '/start/'
       },
       {
+        text: 'Plugins',
+        items: [
+          {
+            text: "MIK",
+            link: "/product/markdown-image-kit"
+          }
+        ]
+      },
+      {
         text: '反馈',
         link: 'https://github.com/dong4j/idea-plugin-dev/issues/new/choose',
         icon: 'reco-category'
