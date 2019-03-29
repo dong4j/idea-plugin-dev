@@ -16,7 +16,6 @@ footer: 2019 ©dong4j. Released under the CC BY-NC-SA 4.0 International License.
 <div align="center">
 
 [![IDEA Plugin](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
-[![Open Issues](http://githubbadges.herokuapp.com/boennemann/badges/issues.svg?style=flat)](https://github.com/dong4j/idea-plugin-dev/issues) 
 ![](https://img.shields.io/github/last-commit/dong4j/idea-plugin-dev.svg) ![](https://img.shields.io/github/repo-size/dong4j/idea-plugin-dev.svg) 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-03A9F4.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/dong4j/idea-plugin-dev.svg?style=social)](https://github.com/dong4j/idea-plugin-dev)
@@ -27,7 +26,7 @@ footer: 2019 ©dong4j. Released under the CC BY-NC-SA 4.0 International License.
 
 ## [Changelog 更新日志](./github/changelog.md)
 
-**Star and watch**, 时刻掌握最新面试题 💪
+**Star and watch**  💪
 
 ## Contributing 贡献
 
