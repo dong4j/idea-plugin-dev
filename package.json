@@ -1,7 +1,7 @@
 {
-  "name": "dev-on-macOS",
+  "name": "idea-plugin-dev",
   "version": "0.0.1",
-  "description": "Dev on macOS",
+  "description": "IntelliJ IDEA Plugin Dev",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -12,7 +12,7 @@
     "docs:build": "vuepress build docs"
   },
   "keywords": [],
-  "repository": "https://github.com/dong4j/macOS-dev",
+  "repository": "https://github.com/dong4j/idea-plugin-dev",
   "author": "dong4j <dong4j@gmail.com>",
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {

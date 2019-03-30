@@ -1,36 +1,15 @@
 module.exports = {
   title: 'IntelliJ IDEA Plugin Dev',
   description: 'IntelliJ IDEA 插件开发指南',
-  base: '/idea-plugin-dev/',
+  // base: '/idea-plugin-dev/',
   head: [
-    ['link', {
-      rel: 'icon',
-      href: '/favicon.png'
-    }],
-    ['meta', {
-      name: 'theme-color',
-      content: '#00ABE9'
-    }],
-    ['meta', {
-      name: 'apple-mobile-web-app-capable',
-      content: 'yes'
-    }],
-    ['meta', {
-      name: 'apple-mobile-web-app-status-bar-style',
-      content: 'black'
-    }],
-    ['link', {
-      rel: 'apple-touch-icon',
-      href: '/favicon.png'
-    }],
-    ['meta', {
-      name: 'msapplication-TileImage',
-      content: '/favicon.png'
-    }],
-    ['meta', {
-      name: 'msapplication-TileColor',
-      content: '#06BDFF'
-    }]
+    ['link', { rel: 'icon', href: '/favicon.png' }],
+    ['meta', { name: 'theme-color', content: '#00ABE9' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/favicon.png' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#06BDFF' }],
   ],
   host: '127.0.0.1',
   port: '9529',
