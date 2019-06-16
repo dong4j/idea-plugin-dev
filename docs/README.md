@@ -15,6 +15,7 @@ footer: 2019 ©dong4j. Released under the CC BY-NC-SA 4.0 International License.
 
 <div align="center">
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![IDEA Plugin](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 ![](https://img.shields.io/github/last-commit/dong4j/idea-plugin-dev.svg) ![](https://img.shields.io/github/repo-size/dong4j/idea-plugin-dev.svg) 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-03A9F4.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
